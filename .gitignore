@@ -1,0 +1,12 @@
+# 编译产物
+iptable-wms/iptable-wms
+
+# 运行时状态文件（已下发的端口转发记录）
+iptable_config.yaml
+
+# Go workspace 本地配置
+go.work
+go.work.sum
+
+# 工具/IDE 本地目录
+.codebuddy/
